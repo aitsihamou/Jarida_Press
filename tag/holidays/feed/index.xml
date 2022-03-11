@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Holidays &#8211; Jarida</title>
-	<atom:link href="/tag/holidays/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://aitsihamou.github.io/Jarida_Press/tag/holidays/feed/" rel="self" type="application/rss+xml" />
+	<link>https://aitsihamou.github.io/Jarida_Press</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Mon, 01 Aug 2016 00:37:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>Lorem ipsum dolor sit amet consectetur</title>
-		<link>/2016/08/01/lorem-ipsum-dolor-sit-amet-consectetur/</link>
-					<comments>/2016/08/01/lorem-ipsum-dolor-sit-amet-consectetur/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/08/01/lorem-ipsum-dolor-sit-amet-consectetur/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/08/01/lorem-ipsum-dolor-sit-amet-consectetur/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Mon, 01 Aug 2016 00:37:47 +0000</pubDate>
@@ -40,15 +40,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/08/01/lorem-ipsum-dolor-sit-amet-consectetur/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/08/01/lorem-ipsum-dolor-sit-amet-consectetur/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pellentesque nibh aenean quam in scelerisque</title>
-		<link>/2016/07/31/pellentesque-nibh-aenean-quam-in-scelerisque/</link>
-					<comments>/2016/07/31/pellentesque-nibh-aenean-quam-in-scelerisque/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/07/31/pellentesque-nibh-aenean-quam-in-scelerisque/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/07/31/pellentesque-nibh-aenean-quam-in-scelerisque/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2016 23:36:45 +0000</pubDate>
@@ -66,15 +66,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/31/pellentesque-nibh-aenean-quam-in-scelerisque/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/07/31/pellentesque-nibh-aenean-quam-in-scelerisque/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pharetra auctor sem massa mattis sem</title>
-		<link>/2016/07/31/pharetra-auctor-sem-massa-mattis-sem-2/</link>
-					<comments>/2016/07/31/pharetra-auctor-sem-massa-mattis-sem-2/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/07/31/pharetra-auctor-sem-massa-mattis-sem-2/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/07/31/pharetra-auctor-sem-massa-mattis-sem-2/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2016 23:16:08 +0000</pubDate>
@@ -92,15 +92,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/31/pharetra-auctor-sem-massa-mattis-sem-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/07/31/pharetra-auctor-sem-massa-mattis-sem-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tincidunt malesuada tellus ut ultrices ultrices enim</title>
-		<link>/2016/07/31/tincidunt-malesuada-tellus-ut-ultrices-ultrices-enim/</link>
-					<comments>/2016/07/31/tincidunt-malesuada-tellus-ut-ultrices-ultrices-enim/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/07/31/tincidunt-malesuada-tellus-ut-ultrices-ultrices-enim/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/07/31/tincidunt-malesuada-tellus-ut-ultrices-ultrices-enim/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2016 23:05:11 +0000</pubDate>
@@ -118,15 +118,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/31/tincidunt-malesuada-tellus-ut-ultrices-ultrices-enim/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/07/31/tincidunt-malesuada-tellus-ut-ultrices-ultrices-enim/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Aliquet et iaculis et viverra vitae ligula</title>
-		<link>/2016/07/31/aliquet-et-iaculis-et-viverra-vitae-ligula/</link>
-					<comments>/2016/07/31/aliquet-et-iaculis-et-viverra-vitae-ligula/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/07/31/aliquet-et-iaculis-et-viverra-vitae-ligula/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/07/31/aliquet-et-iaculis-et-viverra-vitae-ligula/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2016 22:58:19 +0000</pubDate>
@@ -144,15 +144,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/31/aliquet-et-iaculis-et-viverra-vitae-ligula/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/07/31/aliquet-et-iaculis-et-viverra-vitae-ligula/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Curae morbi lacinia molestie dui praesent blandit</title>
-		<link>/2016/07/31/curae-morbi-lacinia-molestie-dui-praesent-blandit/</link>
-					<comments>/2016/07/31/curae-morbi-lacinia-molestie-dui-praesent-blandit/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/07/31/curae-morbi-lacinia-molestie-dui-praesent-blandit/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/07/31/curae-morbi-lacinia-molestie-dui-praesent-blandit/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2016 22:47:53 +0000</pubDate>
@@ -170,15 +170,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/31/curae-morbi-lacinia-molestie-dui-praesent-blandit/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/07/31/curae-morbi-lacinia-molestie-dui-praesent-blandit/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ultrices ultrices enim curabitur</title>
-		<link>/2016/07/31/ultrices-ultrices-enim-curabitur/</link>
-					<comments>/2016/07/31/ultrices-ultrices-enim-curabitur/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/07/31/ultrices-ultrices-enim-curabitur/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/07/31/ultrices-ultrices-enim-curabitur/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2016 17:36:04 +0000</pubDate>
@@ -196,15 +196,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/31/ultrices-ultrices-enim-curabitur/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/07/31/ultrices-ultrices-enim-curabitur/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Morbi lacinia molestie dui praesent</title>
-		<link>/2016/07/31/morbi-lacinia-molestie-dui-praesent/</link>
-					<comments>/2016/07/31/morbi-lacinia-molestie-dui-praesent/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/07/31/morbi-lacinia-molestie-dui-praesent/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/07/31/morbi-lacinia-molestie-dui-praesent/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2016 17:06:10 +0000</pubDate>
@@ -222,15 +222,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/31/morbi-lacinia-molestie-dui-praesent/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/07/31/morbi-lacinia-molestie-dui-praesent/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pharetra auctor sem massa mattis sem</title>
-		<link>/2016/07/31/pharetra-auctor-sem-massa-mattis-sem/</link>
-					<comments>/2016/07/31/pharetra-auctor-sem-massa-mattis-sem/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/07/31/pharetra-auctor-sem-massa-mattis-sem/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/07/31/pharetra-auctor-sem-massa-mattis-sem/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2016 16:57:18 +0000</pubDate>
@@ -248,15 +248,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/31/pharetra-auctor-sem-massa-mattis-sem/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/07/31/pharetra-auctor-sem-massa-mattis-sem/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Proin ligula nunc egestas porttitor</title>
-		<link>/2016/07/31/proin-ligula-nunc-egestas-porttitor/</link>
-					<comments>/2016/07/31/proin-ligula-nunc-egestas-porttitor/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/07/31/proin-ligula-nunc-egestas-porttitor/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/07/31/proin-ligula-nunc-egestas-porttitor/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2016 16:42:31 +0000</pubDate>
@@ -274,7 +274,7 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/31/proin-ligula-nunc-egestas-porttitor/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/07/31/proin-ligula-nunc-egestas-porttitor/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

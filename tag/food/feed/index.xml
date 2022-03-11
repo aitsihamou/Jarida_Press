@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Food &#8211; Jarida</title>
-	<atom:link href="/tag/food/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://aitsihamou.github.io/Jarida_Press/tag/food/feed/" rel="self" type="application/rss+xml" />
+	<link>https://aitsihamou.github.io/Jarida_Press</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Mon, 01 Aug 2016 00:44:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>Curabitur sodales ligula in libero</title>
-		<link>/2016/08/01/curabitur-sodales-ligula-in-libero/</link>
-					<comments>/2016/08/01/curabitur-sodales-ligula-in-libero/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/08/01/curabitur-sodales-ligula-in-libero/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/08/01/curabitur-sodales-ligula-in-libero/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Mon, 01 Aug 2016 00:44:41 +0000</pubDate>
@@ -40,15 +40,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/08/01/curabitur-sodales-ligula-in-libero/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/08/01/curabitur-sodales-ligula-in-libero/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Cras metus sed aliquet risus a tortor</title>
-		<link>/2016/08/01/cras-metus-sed-aliquet-risus-a-tortor/</link>
-					<comments>/2016/08/01/cras-metus-sed-aliquet-risus-a-tortor/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/08/01/cras-metus-sed-aliquet-risus-a-tortor/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/08/01/cras-metus-sed-aliquet-risus-a-tortor/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Mon, 01 Aug 2016 00:29:48 +0000</pubDate>
@@ -66,15 +66,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/08/01/cras-metus-sed-aliquet-risus-a-tortor/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/08/01/cras-metus-sed-aliquet-risus-a-tortor/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nulla metus metus ullamcorper vel tincidunt</title>
-		<link>/2016/07/31/nulla-metus-metus-ullamcorper-vel-tincidunt/</link>
-					<comments>/2016/07/31/nulla-metus-metus-ullamcorper-vel-tincidunt/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/07/31/nulla-metus-metus-ullamcorper-vel-tincidunt/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/07/31/nulla-metus-metus-ullamcorper-vel-tincidunt/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2016 23:42:06 +0000</pubDate>
@@ -92,15 +92,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/31/nulla-metus-metus-ullamcorper-vel-tincidunt/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/07/31/nulla-metus-metus-ullamcorper-vel-tincidunt/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Lacinia nunc curabitur tortor pellentesque nibh</title>
-		<link>/2016/07/31/lacinia-nunc-curabitur-tortor-pellentesque-nibh/</link>
-					<comments>/2016/07/31/lacinia-nunc-curabitur-tortor-pellentesque-nibh/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/07/31/lacinia-nunc-curabitur-tortor-pellentesque-nibh/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/07/31/lacinia-nunc-curabitur-tortor-pellentesque-nibh/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2016 23:22:27 +0000</pubDate>
@@ -118,15 +118,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/31/lacinia-nunc-curabitur-tortor-pellentesque-nibh/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/07/31/lacinia-nunc-curabitur-tortor-pellentesque-nibh/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Integer lacinia sollicitudin massa</title>
-		<link>/2016/07/31/integer-lacinia-sollicitudin-massa/</link>
-					<comments>/2016/07/31/integer-lacinia-sollicitudin-massa/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/07/31/integer-lacinia-sollicitudin-massa/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/07/31/integer-lacinia-sollicitudin-massa/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2016 23:09:11 +0000</pubDate>
@@ -144,15 +144,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/31/integer-lacinia-sollicitudin-massa/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/07/31/integer-lacinia-sollicitudin-massa/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Elementum imperdiet duis sagittis ipsum</title>
-		<link>/2016/07/31/elementum-imperdiet-duis-sagittis-ipsum/</link>
-					<comments>/2016/07/31/elementum-imperdiet-duis-sagittis-ipsum/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/07/31/elementum-imperdiet-duis-sagittis-ipsum/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/07/31/elementum-imperdiet-duis-sagittis-ipsum/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2016 23:03:04 +0000</pubDate>
@@ -170,15 +170,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/31/elementum-imperdiet-duis-sagittis-ipsum/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/07/31/elementum-imperdiet-duis-sagittis-ipsum/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sagittis at neque nullam mauris orci</title>
-		<link>/2016/07/31/sagittis-at-neque-nullam-mauris-orci/</link>
-					<comments>/2016/07/31/sagittis-at-neque-nullam-mauris-orci/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/07/31/sagittis-at-neque-nullam-mauris-orci/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/07/31/sagittis-at-neque-nullam-mauris-orci/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2016 22:53:23 +0000</pubDate>
@@ -196,15 +196,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/31/sagittis-at-neque-nullam-mauris-orci/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/07/31/sagittis-at-neque-nullam-mauris-orci/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nunc feugiat mi a tellus consequat</title>
-		<link>/2016/07/31/nunc-feugiat-mi-a-tellus-consequat/</link>
-					<comments>/2016/07/31/nunc-feugiat-mi-a-tellus-consequat/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/07/31/nunc-feugiat-mi-a-tellus-consequat/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/07/31/nunc-feugiat-mi-a-tellus-consequat/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2016 22:40:36 +0000</pubDate>
@@ -222,15 +222,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/31/nunc-feugiat-mi-a-tellus-consequat/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/07/31/nunc-feugiat-mi-a-tellus-consequat/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Faucibus orci luctus et ultrices posuere</title>
-		<link>/2016/07/31/faucibus-orci-luctus-et-ultrices-posuere/</link>
-					<comments>/2016/07/31/faucibus-orci-luctus-et-ultrices-posuere/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/07/31/faucibus-orci-luctus-et-ultrices-posuere/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/07/31/faucibus-orci-luctus-et-ultrices-posuere/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2016 17:03:15 +0000</pubDate>
@@ -248,15 +248,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/31/faucibus-orci-luctus-et-ultrices-posuere/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/07/31/faucibus-orci-luctus-et-ultrices-posuere/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Integer euismod lacus luctus magna</title>
-		<link>/2016/07/31/integer-euismod-lacus-luctus-magna/</link>
-					<comments>/2016/07/31/integer-euismod-lacus-luctus-magna/#respond</comments>
+		<link>https://aitsihamou.github.io/Jarida_Press/2016/07/31/integer-euismod-lacus-luctus-magna/</link>
+					<comments>https://aitsihamou.github.io/Jarida_Press/2016/07/31/integer-euismod-lacus-luctus-magna/#respond</comments>
 		
 		<dc:creator><![CDATA[nourddine]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2016 16:52:42 +0000</pubDate>
@@ -274,7 +274,7 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/31/integer-euismod-lacus-luctus-magna/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aitsihamou.github.io/Jarida_Press/2016/07/31/integer-euismod-lacus-luctus-magna/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
